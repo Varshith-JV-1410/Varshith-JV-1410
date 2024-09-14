@@ -26,11 +26,12 @@ As a student persuing my Master's in CyberSecurity and Digital-Forensics, I'm ex
 
 ### 📊 Stats
 
-![Varshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshith-JV-1410&show_icons=true&theme=gruvbox)
+![Varshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshith-JV-1410&show_icons=true&theme=jolly)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Varshith-JV-1410&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Varshith-JV-1410&theme=jolly&border_radius=4.5) 
 
 #
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-JV-1410&layout=compact&theme=jolly) -->
 
 <details>
  <summary><h3>👨‍💻 Varshith's Coding Journey</h3></summary>
