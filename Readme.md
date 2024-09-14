@@ -23,15 +23,15 @@ As a student persuing my Master's in CyberSecurity and Digital-Forensics, I'm ex
 
 #
 
-
-### 📊 Stats
+<summary><h2>📊 Stats</h2></summary>
 
 ![Varshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshith-JV-1410&show_icons=true&theme=jolly)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Varshith-JV-1410&theme=jolly&border_radius=4.5) 
 
-#
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-JV-1410&layout=compact&theme=jolly) -->
+#
 
 <details>
  <summary><h3>👨‍💻 Varshith's Coding Journey</h3></summary>
@@ -43,8 +43,9 @@ While I've enjoyed honing my craft in various creative fields, it's time to retu
 
 In 2024, I’ll be streamlining my efforts, dedicating myself to building a powerful forensic analysis tool, just as I once envisioned. I'm ready for this next chapter.
 
-#
-
 [website]: 
+</details>
 
 #
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-JV-1410&repo=Malware_Analysis_Tool&theme=aura)](https://github.com/Varshith-JV-1410/Malware_Analysis_Tool)
