@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Student/Cybersecurity/Digital-Forensics)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+As a student persuing my Master's in CyberSecurity and Digital-Forensics, I'm excited to apply my theoretical knowledge and practical experience in the cyber forensic industry. With a strong background in forensic science, I'm eager to expand my knowledge in the rapidly evolving field of cybercrime investigations. I'm particularly interested in how forensic science can be used to recover, analyse, and interpret digital evidence. I've self studied digital forensics, which includes topics like file systems, network protocols, and cybercrime investigations.
 
    <p align="left">
       <a href="https://github.com/Varshith-JV-1410?tab=followers">
