@@ -48,5 +48,5 @@ In 2024, I’ll be streamlining my efforts, dedicating myself to building a powe
 
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-JV-1410&repo=Malware_Analysis_Tool&theme=aura)](https://github.com/Varshith-JV-1410/Malware_Analysis_Tool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-JV-1410&repo=Morse-Code&theme=aura)](https://github.com/Varshith-JV-1410/Morse-Code )\
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-JV-1410&repo=Malware_Analysis_Tool&theme=aura)](https://github.com/Varshith-JV-1410/Malware_Analysis_Tool)...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Varshith-JV-1410&repo=Morse-Code&theme=aura)](https://github.com/Varshith-JV-1410/Morse-Code )
