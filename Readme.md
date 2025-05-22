@@ -41,7 +41,7 @@ My passion for networking and malware analysis grew, and I found myself balancin
 
 While I've enjoyed honing my craft in various creative fields, it's time to return to that core goal—the tool I've dreamed of building since I began this journey. Now, I'm ready to shift my focus and pour my energy into making that vision a reality, leveraging everything I've learned along the way. It's time to get back to the challenge that excites me the most.
 
-In 2024, I’ll be streamlining my efforts, dedicating myself to building a powerful forensic analysis tool, just as I once envisioned. I'm ready for this next chapter.
+In 2025, I’ll be streamlining my efforts, dedicating myself to building a powerful forensic analysis tool, just as I once envisioned. I'm ready for this next chapter.
 
 [website]: 
 </details>
