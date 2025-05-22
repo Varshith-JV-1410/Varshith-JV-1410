@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Student/Cybersecurity/Digital-Forensics)`**
 
-As a student persuing my Master's in CyberSecurity and Digital-Forensics, I'm excited to apply my theoretical knowledge and practical experience in the cyber forensic industry. With a strong background in forensic science, I'm eager to expand my knowledge in the rapidly evolving field of cybercrime investigations. I'm particularly interested in how forensic science can be used to recover, analyse, and interpret digital evidence. I've self studied digital forensics, which includes topics like file systems, network protocols, and cybercrime investigations.
+Cybersecurity & digital forensics master’s student with a forensic science backbone and a passion for digital investigations, memory analysis, and ai-powered security. Certified in ethical hacking, network security, and advanced forensics. Skilled across red teaming, blue teaming, and making sense of chaos (especially in logs). On a mission to outsmart threats—one packet at a time. 
 
    <p align="left">
       <a href="https://github.com/Varshith-JV-1410?tab=followers">
