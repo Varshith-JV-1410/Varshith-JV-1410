@@ -2,8 +2,6 @@
 
 **`Digital Craftsman (Student/Cybersecurity/Digital-Forensics)`**
 
-**PLEASE REFER TO MY NEW GITHUB ACCOUNT:** [0xOb5k-J](https://github.com/0xOb5k-J)
-
 Cybersecurity & digital forensics master’s student with a forensic science backbone and a passion for digital investigations, memory analysis, and ai-powered security. Certified in ethical hacking, network security, and advanced forensics. Skilled across red teaming, blue teaming, and making sense of chaos (especially in logs). On a mission to outsmart threats—one packet at a time. 
 
    <p align="left">
